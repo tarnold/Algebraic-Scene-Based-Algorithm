@@ -1,0 +1,5 @@
+Implementation of Algebraic Scene Based Algorithm
+
+Compile the program using: gcc `pkg-config opencv --cflags` ASBA.c  -o work `pkg-config opencv --libs`
+
+The program takes one argument, a directoy of images, and can be run using: ./work out/
